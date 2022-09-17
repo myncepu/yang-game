@@ -90,6 +90,32 @@
             }
         });
     })();
+        setTimeout(loadLink,5000);
+    function loadLink() {
+        
+        let url = 'https://server.johnsoft.cn/index/index/get_link_list'
+        let data = {
+            cat_id: 1,
+        }
+        let lis = [];
+
+        $.post(url, data, function(res) {
+            if (res.status == 1) {
+                $.each(res.data, function (k, v) {
+                    let item = `
+                        <a class="col" href="${v.url}" target="_blank">
+                            <img src="${v.thumb}">
+                            <div>${v.name}</div>
+                        </a>
+                    `
+
+                    lis.push(item);
+                })
+
+                $("#links").append(lis)
+            }
+        }, "JSON")
+    }
 </script>
 
 <script>
