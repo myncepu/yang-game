@@ -1,6 +1,7 @@
 **羊了个羊解气版部署 - 使用 腾讯云 Serverless**
 搭建有问题联系 微信 johnsoft001
 
+![部署](https://github.com/myncepu/yang-game/blob/c39cc03b88e9e8c3866188ff0cba37f082577275/docs/WechatIMG43.jpeg)
 
 **[Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html) - 发现|配置|管理微服务解决方案**
 
