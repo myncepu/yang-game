@@ -1,39 +1,5 @@
-<h3 align="center"><a href="https://blog.csdn.net/qierkang" target="_blank">羊了个娘🐑🐑🐑</a></h3>
+**羊了个羊部署**
 
-<p align="center">
-<a href="https://www.qekang.com"><img alt="文档创建&贡献者" src="https://img.shields.io/badge/文档创建&贡献者-尔康-blueviolet.svg"/></a>
-<a href="https://blog.csdn.net/qierkang"><img alt="blog" src="https://img.shields.io/badge/blog-important.svg"/></a>
-<a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html"><img alt="JDK" src="https://img.shields.io/badge/JDK-1.8.0_162-orange.svg"/></a>
-<a href="https://docs.spring.io/spring-boot/docs/2.1.0.RELEASE/reference/html/"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-2.1.0.RELEASE-brightgreen.svg"/></a>
-<a href="https://996.icu"><img alt="996" src="https://img.shields.io/badge/link-996.icu-red.svg"/></a>
-<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img alt="996" src="https://img.shields.io/badge/license-Anti%20996-blue.svg"/></a>
-</p>
-
-<p align="center">
-<font face="微软雅黑" size=2 color=#A9A9A9 >版权声明：内容供内部学习使用，请勿外传！转载请附上作者信息</font>
-</p>
-
-## [在线体验](http://qekang.com/yang)
-
-### [前端源码](https://gitee.com/qierkang/yang-game)
-
-### [服务端源码](https://gitee.com/qierkang/yang-service)
-
-### [gitee传送门](https://gitee.com/qierkang/yang-game)
-
-### [github传送门](https://github.com/qierkang/yang-game)
-
-## 开发环境
-
-- **JDK 1.8 +**
-- **Maven 3.5 +**
-- **IntelliJ IDEA ULTIMATE 2019.2 +** (*注意：务必使用 IDEA 开发，同时保证安装 `lombok` 插件*)
-- **Mysql 5.7 +** (*尽量保证使用 5.7 版本以上，因为 5.7 版本加了一些新特性，同时不向下兼容。本 demo 里会尽量避免这种不兼容的地方，但还是建议尽量保证 5.7 版本以上*)
-
-
-<h3 align="center"><a href="https://github.com/alibaba/spring-cloud-alibaba" target="_blank">Spring Cloud Alibaba</a></h3>
-
----
 
 **[Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html) - 发现|配置|管理微服务解决方案**
 
